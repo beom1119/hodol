@@ -62,4 +62,5 @@ class PostControllerTest {
 }
 
 
-/// MockMVC란 아주 기초적인 테스트 코드로서 가짜 요청을 만들어 더욱 테스트 하기 쉽게 사용하는 것.
+/// MockMVC란 아주  기초적인 테스트 코드로서 가짜 요청을 만들어 더욱 테스트 하기 쉽게 사용하는 것.
+//validate
